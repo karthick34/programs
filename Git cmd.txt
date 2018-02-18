@@ -1,0 +1,26 @@
+
+git push remote name:branchname (delete remote branch)
+
+git checkout -b <branchname> (create local branch)
+git puch <remote name> <branchname> (pushes local branch to remote>)
+
+
+git-push
+
+git init 
+git remote add master https://github.com/yogeshfromchennai/WorkqukirNew
+git add .
+git commit -m "msg"
+git push -u master master
+E:\eclipse-jee-juno-SR2-win32\eclipse\Struts1.0ToStruts2.0Migration\struts1.2
+@Min(value=min),@Max(value=max)
+
+git checkout
+git init 
+git remote add master https://github.com/yogeshfromchennai/TestWeb
+git fetch --all
+git checkout master
+
+git checkout -b master --track origin/master
+
+git reset --hard master
